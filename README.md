@@ -1,7 +1,7 @@
 
 # Portfolio
 #### This is my  Portfolio, 10/11/2018
-####Author
+#### Author
 #### By **Tushabe Barbra**
 ## Description
 This is my portfolio which contains information about me and all my projects i have done,which includes;My Education background,current interest ,hobbies ,and skills.
