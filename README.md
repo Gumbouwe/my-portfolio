@@ -11,7 +11,7 @@ Carried out in KIEC.
 * html
 * css
 * markdown
-* git clone https://github.com/Gumbouwe/my-portfolio.git
+* Link to visit: https://gumbouwe.github.io/my-portfolio/.
 ## Known Bugs
 I did an html page and styled by using css.
 
